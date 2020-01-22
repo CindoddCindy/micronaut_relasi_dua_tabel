@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cindy.duatabel
+---
+testFramework: junit
+sourceLanguage: java
